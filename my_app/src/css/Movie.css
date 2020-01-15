@@ -1,0 +1,12 @@
+.movie_info{
+    text-align: center;
+    width:30%;
+    margin:9.5%;
+    height:300px;   
+    float:left;
+    border: 1px solid #e2e2e2;
+}
+.movie_info > img{
+    width:30%;
+    float:left
+}
