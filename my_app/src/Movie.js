@@ -8,7 +8,7 @@ class Movie extends Component{
         title: PropTypes.string.isRequired,
         poster: PropTypes.string.isRequired
     }
-
+    
     render(){
         return(
             <div className="movie_info">
